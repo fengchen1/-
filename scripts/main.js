@@ -1,2 +1,2 @@
 let myHeading = document.querySelector('h1');
-myHeading.textContent = 'Hello world!';
+myHeading.textContent = '2019河南专升本倒计时';
