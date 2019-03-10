@@ -28,6 +28,9 @@ ul {
   line-height: 2;
   letter-spacing: 10px;
 }
+a {
+  font-size: 40px;
+}
 body {
   width: 600px;
   margin: 0 auto;
