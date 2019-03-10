@@ -15,12 +15,12 @@ h1 {
 }
 
 p, li {
-  font-size: 160px;    
+  font-size: 100px;    
   line-height: 20;
   letter-spacing: 10px;
 }
 body {
-  width: 1000px;
+  width: 110px;
   margin: 0 auto;
   background-color: rgb(59, 161, 131);
   padding: 0 20px 20px 20px;
