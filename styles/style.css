@@ -15,9 +15,9 @@ h1 {
 }
 
 p, li {
-  font-size: 16px;    
-  line-height: 2;
-  letter-spacing: 1px;
+  font-size: 160px;    
+  line-height: 20;
+  letter-spacing: 10px;
 }
 body {
   width: 1000px;
