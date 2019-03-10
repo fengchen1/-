@@ -20,14 +20,17 @@ p {
   width: 500px;
   line-height: 2;
   letter-spacing: 10px;
-}
-ul {
+  
+  ul {
   font-size: 40px;
   text-align: center;
   width: 500px;
   line-height: 2;
   letter-spacing: 10px;
 }
+
+}
+
 a {
   font-size: 40px;
 }
