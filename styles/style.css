@@ -1,0 +1,40 @@
+body {
+  width: 1000px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+h1 {
+  color: #375e97;
+  border-bottom: 1px solid #375e97;
+}
+
+h2 {
+  font-size: 1.5em;
+  border-bottom: 1px solid #375e97;
+}
+
+ul{
+   font-size:xx-large;
+   font-weight: bold;
+   color:rgb(243, 3, 23);
+  /* max-width: 800px;
+   border:3px rgb(76, 75, 78) solid;
+   padding-left:55px;/*页边距*/
+}
+
+.job-title {
+  color: #999999;
+  font-weight: bold;
+}
+
+a:link{
+    text-decoration:none;
+}
+a:visited {
+  color:rebeccapurple;
+}
+
+a:hover {
+  text-decoration:underline;
+}
